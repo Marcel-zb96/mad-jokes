@@ -28,15 +28,18 @@
 
 ## Project structure
 
-    Node.js backend repository: <https://github.com/Marcel-zb96/dad-joke-site-backend>
-    Node.js frontend repository: <https://github.com/Marcel-zb96/dad-joke-site-frontend>
+Node.js backend repository: 
+	[Backend](https://github.com/Marcel-zb96/dad-joke-site-backend)
+
+Node.js frontend repository: 
+	[Frontend](https://github.com/Marcel-zb96/dad-joke-site-frontend)
 
 ##  Features
 
-    Main page: User posts ordered by posting time
-    Posts: create - edit - delete
-    Random post page
-    Profile editor with password change option
+    - Main page: User posts ordered by posting time
+    - Posts: create - edit - delete
+    - Random post page
+    - Profile editor with password change option
     
 ### Features under development: 
 
