@@ -22,10 +22,10 @@
 
 ##  Overview
 
-    This project was made with learning purposes with new features currently under development.
+This project was made for learning purposes with new features currently under development.
 
-    The web application's purpuse is to search and sheare jokes between users.
-    Users has to sign up and log in to see the punchline of all jokes.
+The web application's purpuse is to search and share jokes between users.
+Users have to sign up and log in to see the punchline of all jokes.
 
 ## Project structure
 
